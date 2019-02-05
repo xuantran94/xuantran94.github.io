@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lorem on Xuan Tran</title>
-    <link>https://xuantran94.github.io/categories/lorem/</link>
-    <description>Recent content in Lorem on Xuan Tran</description>
+    <title>2s on Xuan Tran</title>
+    <link>https://xuantran94.github.io/2/</link>
+    <description>Recent content in 2s on Xuan Tran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://xuantran94.github.io/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xuantran94.github.io/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,6 +20,16 @@
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://xuantran94.github.io/2/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://xuantran94.github.io/2/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
